@@ -1,0 +1,18 @@
+cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={ 
+"dr/16537.svg": "img1.json",
+"dr/16580.svg": "img1.json",
+"dr/19306_1280_720.png": "img1.json",
+"dr/19454_1280_720.png": "img2.json",
+"dr/19458_1280_720.png": "img3.json",
+"dr/19462_1280_720.png": "img4.json",
+"dr/19466_1280_720.png": "img5.json",
+"dr/19538.svg": "img6.json",
+"dr/Galaxy_Fold_1.png": "img6.json",
+"dr/Galaxy_Fold_29.png": "img6.json",
+"dr/Galaxy_Fold_30.png": "img6.json",
+"dr/Galaxy_Fold_31.png": "img6.json",
+"dr/loading.gif": "img6.json",
+"dr/SamsungCircle_WBT_BG_START_NEW.jpg": "img6.json",
+"dr/SmartShape_5.png": "img6.json",
+"dr/SmartShape_6.png": "img6.json",
+"___":"___"};

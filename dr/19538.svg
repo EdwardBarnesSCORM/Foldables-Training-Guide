@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 40 40" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        font-family: SamsungSharpSans-Medium, 'Samsung Sharp Sans';
+        font-size: 19.7px;
+        font-weight: 500;
+      }
+
+      .st2 {
+        filter: url(#filter-2);
+      }
+
+      .st3 {
+        filter: url(#filter-4);
+      }
+    </style><filter height="125.0%" width="125.0%" y="-10.0%" x="-12.5%" id="filter-2"><feOffset result="shadowOffsetOuter1" in="SourceAlpha" dy="1" dx="0"/><feGaussianBlur stdDeviation="1.5" result="shadowBlurOuter1" in="shadowOffsetOuter1"/><feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" result="shadowMatrixOuter1" in="shadowBlurOuter1"/><feMorphology result="shadowSpreadOuter2" radius="0.5" in="SourceAlpha"/><feOffset result="shadowOffsetOuter2" in="shadowSpreadOuter2" dy="2" dx="0"/><feGaussianBlur stdDeviation="0.5" result="shadowBlurOuter2" in="shadowOffsetOuter2"/><feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" result="shadowMatrixOuter2" in="shadowBlurOuter2"/><feOffset result="shadowOffsetOuter3" in="SourceAlpha" dy="1" dx="0"/><feGaussianBlur stdDeviation="0.5" result="shadowBlurOuter3" in="shadowOffsetOuter3"/><feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" result="shadowMatrixOuter3" in="shadowBlurOuter3"/><feMerge><feMergeNode in="shadowMatrixOuter1"/><feMergeNode in="shadowMatrixOuter2"/><feMergeNode in="shadowMatrixOuter3"/></feMerge></filter><filter height="125.0%" width="125.0%" y="-10.0%" x="-12.5%" id="filter-4"><feOffset result="shadowOffsetOuter1" in="SourceAlpha" dy="1" dx="0"/><feGaussianBlur stdDeviation="1.5" result="shadowBlurOuter1" in="shadowOffsetOuter1"/><feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" result="shadowMatrixOuter1" in="shadowBlurOuter1"/><feMorphology result="shadowSpreadOuter2" radius="0.5" in="SourceAlpha"/><feOffset result="shadowOffsetOuter2" in="shadowSpreadOuter2" dy="2" dx="0"/><feGaussianBlur stdDeviation="0.5" result="shadowBlurOuter2" in="shadowOffsetOuter2"/><feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" result="shadowMatrixOuter2" in="shadowBlurOuter2"/><feOffset result="shadowOffsetOuter3" in="SourceAlpha" dy="1" dx="0"/><feGaussianBlur stdDeviation="0.5" result="shadowBlurOuter3" in="shadowOffsetOuter3"/><feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" result="shadowMatrixOuter3" in="shadowBlurOuter3"/><feMerge><feMergeNode in="shadowMatrixOuter1"/><feMergeNode in="shadowMatrixOuter2"/><feMergeNode in="shadowMatrixOuter3"/></feMerge></filter></defs><g onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" id="Layer_1"><g id="Button_previous-slide"><g id="Oval"><g class="st2"><circle data-cppathid="10000" r="20" cy="20" cx="20" id="path-1"/></g><circle data-cppathid="10001" r="20" cy="20" cx="20" class="st0" data-name="path-1" id="path-11"/></g><g data-name="Oval" id="Oval1"><g class="st3"><circle data-cppathid="10002" r="20" cy="20" cx="20" id="path-3"/></g><circle data-cppathid="10003" r="20" cy="20" cx="20" class="st0" data-name="path-3" id="path-31"/></g><text data-cppathid="10004" transform="translate(13.7 26.7)" class="st1"><tspan data-cppathid="10005" y="0" x="0">X</tspan></text></g></g></svg>
